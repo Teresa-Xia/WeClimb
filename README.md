@@ -1,4 +1,4 @@
-# csit321
+# WeClimb
 -----------------------------
 - install node.js
 
